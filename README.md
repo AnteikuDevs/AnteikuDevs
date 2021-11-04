@@ -1,5 +1,4 @@
 
-
 ### Hi there 👋
 
 ## I'm Teguh Sugiarto.
@@ -11,11 +10,6 @@
 
 
 <br>
-
-
-
-
-
 
 ### 💻 Stack I Work With
 
