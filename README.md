@@ -139,8 +139,8 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.instagram.com/masteguh.webdev" target="_blank">
-  <img align="center" alt="Masteguh | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+<a href="https://www.instagram.com/masteguhdevs" target="_blank">
+  <img align="center" alt="MasteguhDevs | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/MasteguhDevs">
     <img align="center" alt="Masteguh | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
