@@ -11,6 +11,12 @@
 
 <br>
 
+<p  align="center">
+  <img src="_intro.gif"/>  
+</p>
+
+<br>
+
 ### 💻 Stack I Work With
 
 <br>
