@@ -11,10 +11,6 @@
 
 <br>
 
-<video src="https://github.com/AnteikuDevs/AnteikuDevs/blob/main/intro-anteikudevs.mp4"/>
-
-<br>
-
 ### 💻 Stack I Work With
 
 <br>
