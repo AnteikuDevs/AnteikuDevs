@@ -1,4 +1,10 @@
 
+<p  align="center">
+  <img src="_intro.gif"/>  
+</p>
+
+<br>
+
 ### Hi there 👋
 
 ## I'm Teguh Sugiarto.
@@ -8,12 +14,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🧑‍💻 &nbsp; Programmer is my passions
 
-
-<br>
-
-<p  align="center">
-  <img src="_intro.gif"/>  
-</p>
 
 <br>
 
