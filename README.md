@@ -1,10 +1,4 @@
 
-<p  align="center">
-  <img src="_intro.gif" width="300"/>  
-</p>
-
-<br>
-
 ### Hi there 👋
 
 ## I'm Teguh Sugiarto.
