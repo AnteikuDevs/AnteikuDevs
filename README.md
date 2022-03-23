@@ -1,233 +1,149 @@
-<!-- Header -->
-<h1 align="center">
-  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
-  <br>
-  Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
-</h1>
 
-<!-- Counter -->
-<p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
-</p>
+### Hi there 👋
 
-<p align="center">
-  <b>I'm a passionate programmer who loves to code</b>
-</p>
+## I'm Teguh Sugiarto.
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
-<br>
+### 💻 &nbsp;About Me 
 
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 📓 I'm a student of [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn).
-- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
+- 🤔 &nbsp; Exploring new technologies and developing programming insights.
+- 🧑‍💻 &nbsp; Programmer is my passions
 
-<h2>Tech stack</h2>
-
-<p align="center">
-  <b>Languages</b>
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
-  </a>
-  <a href="https://go.dev" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/golang.svg" alt="Golang" height="40"/></code>
-  </a>
-</p>
 
 <br>
-<br>
 
-<p align="center">
-  <b>Frontend</b>
-  <br>
-  <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://reactjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
-  </a>
-  <a href="https://preactjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/preact.svg" alt="PreactJS" height="40"/></code>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg" alt="NextJS" height="40"/></code>
-  </a>
-</p>
+### 💻 Stack I Work With
 
 <br>
-<br>
 
-<p align="center">
-  <b>Backend</b>
-  <br>
-  <br>
-  <a href="https://nodejs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://expressjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
-  </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"/></code>
-  </a>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
-  </a>
-</p>
+<p  align="center">
 
-<br>
-<br>
-
-<p align="center">
-  <b>System & DevOps</b>
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://docker.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nginx.svg" alt="Nginx" height="40"/></code>
-  </a>
-  <a href="https://pm2.keymetrics.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/pm2.svg" alt="PM2" height="40"/></code>
-  </a>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <b>Other</b>
-  <br>
-  <br>
-  <a href="https://www.electronjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
-  </a>
-</p>
-
-<!-- My Activity -->
-<h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br>
-  <p align="center">
-    <img alt="Mosted used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHTGo&layout=compact&theme=dark" height="192px"/>
-    <br>
-	  <img src="https://github-readme-stats.vercel.app/api?username=oHTGo&show_icons=true&icon_color=ffffff&theme=dark" alt="oHTGo's Github Stats" height="192px"/>
-    <br>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>  
   </p>
-</details>
-<details>
-  <summary><b>⚡ GitHub Contribution</b></summary>
-  <br>
-  <p><img alt="oHTGo's GitHub Contribution" src="https://github.com/oHTGo/oHTGo/blob/snake/snake.svg"/></p>
-  <br>
-</details>
-<details> 
-  <summary><b>📊 Wakatime Stats</b></summary>
-  <br>
   
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2024%20mins-blue)
+<p  align="center">
 
-**I'm a Night 🦉**
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>  
+  &nbsp;
+<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" height="25"/>
+  </p>
+  
+  <p  align="center">
 
-```text
-🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83%
-🌆 Daytime    145 commits    ███████░░░░░░░░░░░░░░░░░░   30.79%
-🌃 Evening    194 commits    ██████████░░░░░░░░░░░░░░░   41.19%
-🌙 Night      48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
+  &nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+  &nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+  &nbsp;
+<img src="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/> 
+&nbsp;  
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 
-```
+ </p>
+ 
+ <p  align="center">
 
-📅 **I'm Most Productive on Tuesday**
+  
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
+  &nbsp;
 
-```text
-Monday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5%
-Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.26%
-Wednesday    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71%
-Thursday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
-Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68%
-Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
-Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.05%
-
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages:
-Other                    18 hrs 45 mins      █████████████████░░░░░░░░   69.59%
-TypeScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19%
-CSS                      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
-Java                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
-
-🔥 Editors:
-Browser                  18 hrs 2 mins       ████████████████░░░░░░░░░   66.94%
-VS Code                  7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.97%
-NetBeans                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
-
-```
-
-<!--END_SECTION:waka-->
-</details>
-
-<!-- Connection -->
-<h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25">
+&nbsp;
+  
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25">
+&nbsp;
+  
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="25">
+&nbsp;
+    
+  <img src="https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white" height="25">
+&nbsp;
+  
+</p>
 <p align="center">
-  <a href="https://facebook.com/nguyennhathuy.orit" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
-  </a>
-  <a href="https://instagram.com/_.lil.huy._" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
-  </a>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
+&nbsp;
+   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
+&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="25">
+&nbsp;
+  <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="25">
+&nbsp;
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" height="25">
+&nbsp;
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25">
+&nbsp;
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25">
+&nbsp;
+ 
+
+</p>
+<p align="center">
+
+
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+&nbsp;
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
+&nbsp;
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" height="25">
+&nbsp;
+    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="25">
+&nbsp;
+    <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" height="25">
+&nbsp;
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="25">
+&nbsp;
+ 
+
 </p>
 
-<!-- Signal -->
-<p align="right">
-  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
+<br>
+
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
   <br>
-  <em>Lil Huy</em>
-</p>
 
----
+  
+  
+  
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnteikuDevs&theme=vue&hide=issues&line_height=32&show_icons=true" />
+</a>
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnteikuDevs&hide_border=true" />
 
-Credits: [oHTGo](https://github.com/oHTGo)
 
-Last Edited on: 26/02/2022
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnteikuDevs&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<br>
+
+<p align="centre">
+
+  <div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.instagram.com/masteguhdevs" target="_blank">
+  <img align="center" alt="MasteguhDevs | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/MasteguhDevs">
+    <img align="center" alt="Masteguh | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<p>
+  
