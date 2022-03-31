@@ -139,7 +139,7 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.instagram.com/masteguhdevs" target="_blank">
+<a href="https://www.instagram.com/teguhdevs" target="_blank">
   <img align="center" alt="MasteguhDevs | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/MasteguhDevs">
