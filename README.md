@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=AnteikuDevs&fontSize=60&animation=fadeIn&fontAlignY=38&desc=20yo%20Programmer&descAlignY=51&descAlign=62)
 
 [paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
-[paypal-link]: https://paypal.me/AnteikuDevs/10
+[paypal-link]: https://paypal.me/AnteikuDevs
 
 ### Hi there 👋
 
