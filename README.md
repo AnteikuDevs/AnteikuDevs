@@ -143,8 +143,8 @@
 <a href="https://www.instagram.com/teguhdevs" target="_blank">
   <img align="center" alt="MasteguhDevs | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/MasteguhDevs">
-    <img align="center" alt="Masteguh | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+<a href="https://www.facebook.com/teguhdevs">
+    <img align="center" alt="TeguhDevs | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
   
