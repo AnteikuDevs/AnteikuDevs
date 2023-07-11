@@ -118,7 +118,7 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnteikuDevs&theme=dark&hide=issues&line_height=32&show_icons=true" />
 </a>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnteikuDevs&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnteikuDevs&hide_border=true&theme=dark" />
 
 
   
