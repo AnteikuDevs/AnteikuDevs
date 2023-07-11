@@ -1,5 +1,5 @@
 
-<img src="https://github.com/AnteikuDevs/AnteikuDevs/blob/main/welcome-intro.gif" width="100%"/>
+<img src="https://github.com/AnteikuDevs/AnteikuDevs/blob/main/intro-anteikudevs-v2.gif" width="100%"/>
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=AnteikuDevs&fontSize=60&animation=fadeIn&fontAlignY=38&desc=20yo%20Programmer&descAlignY=51&descAlign=62) -->
 
 [paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
