@@ -115,10 +115,10 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnteikuDevs&theme=dark&hide=issues&line_height=32&show_icons=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnteikuDevs&theme=react&hide=issues&line_height=32&show_icons=true&hide_border=true" />
 </a>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnteikuDevs&hide_border=true&theme=dark" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnteikuDevs&hide_border=true&theme=react" />
 
 
   
@@ -126,7 +126,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnteikuDevs&hide_border=true&no-bg=true&no-frame=true&langs_count=10&theme=dark"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnteikuDevs&hide_border=true&no-frame=true&langs_count=10&hide_border=true&theme=react"/>
   
   </td>
 </tr>
