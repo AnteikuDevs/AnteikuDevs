@@ -5,7 +5,7 @@
 ### Perkenalkan saya Teguh Sugiarto.
 <p>Saya merupakan seorang Fullstack Web Developer berpengalaman lebih dari 4 tahun di bidang IT. Dengan latar belakang yang kuat dalam pengembangan web, Teguh telah berhasil menggabungkan keahlian dalam front-end dan back-end development untuk menciptakan solusi digital yang inovatif dan efisien</p>
 
-### 🎗️ &nbsp;Tentang Saya
+### 🏷️ &nbsp;Tentang Saya
 
 - 🏅&nbsp;Telah menyelesaikan 185+ Website
 - 👑&nbsp;Bekerjasama dengan 5 Perusahaan
@@ -13,7 +13,7 @@
 - 🧑‍💻&nbsp;Pengalaman lebih dari 5+ Tahun
 <br>
 
-### 🧩 Keahlian Saya
+### 🎗️ Keahlian
 <div style="display: flex; flex-wrap: wrap">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
@@ -33,12 +33,18 @@
 </div>
 <br>
 
-### 🧩 Tools Saya
+### 🧩 Tools
 <div style="display: flex; flex-wrap: wrap">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 </div>
 <br>
+
+<!-- ### 💻 Sistem Operasi
+<div style="display: flex; flex-wrap: wrap">
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" height="25">
+</div>
+<br> -->
     
 ### 〽️ Statistik Saya
 <div style="display: flex; flex-wrap: wrap">
