@@ -1,150 +1,60 @@
 
-<img src="https://github.com/AnteikuDevs/AnteikuDevs/blob/main/intro.gif" width="100%"/>
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=AnteikuDevs&fontSize=60&animation=fadeIn&fontAlignY=38&desc=20yo%20Programmer&descAlignY=51&descAlign=62) -->
+<img src="https://github.com/AnteikuDevs/AnteikuDevs/blob/main/banner.png" width="100%"/>
 
-[paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
-[paypal-link]: https://paypal.me/AnteikuDevs
+### Halo Semua 👋
+### Perkenalkan saya Teguh Sugiarto.
+<p>Saya merupakan seorang Fullstack Web Developer berpengalaman lebih dari 4 tahun di bidang IT. Dengan latar belakang yang kuat dalam pengembangan web, Teguh telah berhasil menggabungkan keahlian dalam front-end dan back-end development untuk menciptakan solusi digital yang inovatif dan efisien</p>
 
-### Hi there 👋
+### 🎗️ &nbsp;Tentang Saya
 
-## I'm Teguh Sugiarto.
-
-### 💻 &nbsp;About Me 
-
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🧑‍💻 &nbsp; Programmer is my passions
-
-### Donations
-[![Paypal][paypal-badge]][paypal-link]
-
+- 🏅&nbsp;Telah menyelesaikan 185+ Website
+- 👑&nbsp;Bekerjasama dengan 5 Perusahaan
+- ✨&nbsp;Mempunyai 11+ Sertifikat 
+- 🧑‍💻&nbsp;Pengalaman lebih dari 5+ Tahun
 <br>
 
-### 💻 Stack I Work With
-
-<br>
-
-<p  align="center">
-
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>  
-  </p>
-  
-<p  align="center">
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>  
-  &nbsp;
-<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" height="25"/>
-  </p>
-  
-  <p  align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-  &nbsp;
-<img src="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/> 
-&nbsp;  
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-
- </p>
- 
- <p  align="center">
-
-  
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
-  &nbsp;
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25">
-&nbsp;
-  
+### 🧩 Keahlian Saya
+<div style="display: flex; flex-wrap: wrap">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>  
+  <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25">
-&nbsp;
-    
-  <img src="https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white" height="25">
-&nbsp;
-  
-</p>
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
-&nbsp;
-   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
-&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="25">
-&nbsp;
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25">
-&nbsp;
- 
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" height="25">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+</div>
+<br>
 
-</p>
-<p align="center">
-
-
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-&nbsp;
+### 🧩 Tools Saya
+<div style="display: flex; flex-wrap: wrap">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="25">
-&nbsp;
- 
-
-</p>
-
+</div>
+<br>
+    
+### 〽️ Statistik Saya
+<div style="display: flex; flex-wrap: wrap">
+    <img alt="AnteikuDevs" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnteikuDevs&langs_count=9&theme=react&layout=compact&hide_border=true"/>
+    <img alt="AnteikuDevs" src="https://github-readme-streak-stats.herokuapp.com/?user=AnteikuDevs&theme=one-dark-pro&hide_border=true" />
+    <!-- <img alt="AnteikuDevs" src="https://github-readme-stats.vercel.app/api?username=AnteikuDevs&theme=tokyonight&hide=issues&line_height=32&show_icons=true&hide_border=true" /> --> 
+</div>
 <br>
 
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-
-  
-  
-  
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnteikuDevs&theme=react&hide=issues&line_height=32&show_icons=true&hide_border=true" />
-</a>
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnteikuDevs&hide_border=true&theme=react" />
-
-
-  
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnteikuDevs&hide_border=true&no-frame=true&langs_count=10&hide_border=true&theme=react"/>
-  
-  </td>
-</tr>
-</table>
-
-<br>
-
-<p align="centre">
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.instagram.com/anteikudevs" target="_blank">
-  <img align="center" alt="AnteikuDevs | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/anteikudevs">
-    <img align="center" alt="AnteikuDevs | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
+### 💌 Sosial Media Saya
 <p>
-  
+  <a href="https://twitter.com/anteikudevs"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="25"></a>
+  <a href="https://www.instagram.com/anteikudevs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
+  <a href="https://wa.me/message/4253PGYEJ2J7A1"><img src="https://img.shields.io/badge/Whatsapp%20Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>
+  <a href="https://www.facebook.com/anteikudevs"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" height="25"></a>
+  <a href="https://www.linkedin.com/in/anteikudevs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
+  <a href="https://www.youtube.com/@anteikudevs.official"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"></a>
+  <a href="https://t.me/anteikudevs"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25"></a>
+</p>
