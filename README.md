@@ -3,7 +3,7 @@
 
 ### Halo Semua 👋
 ### Perkenalkan saya Teguh Sugiarto.
-<p>Saya merupakan seorang Fullstack Web Developer berpengalaman lebih dari 4 tahun di bidang IT. Dengan latar belakang yang kuat dalam pengembangan web, Teguh telah berhasil menggabungkan keahlian dalam front-end dan back-end development untuk menciptakan solusi digital yang inovatif dan efisien</p>
+<p>Saya merupakan seorang Fullstack Web Developer berpengalaman lebih dari 4 tahun di bidang IT. Dengan latar belakang yang kuat dalam pengembangan web, saya telah berhasil menggabungkan keahlian dalam front-end dan back-end development untuk menciptakan solusi digital yang inovatif dan efisien</p>
 
 ### 🏷️ &nbsp;Tentang Saya
 
