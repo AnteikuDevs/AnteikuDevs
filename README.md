@@ -7,9 +7,9 @@
 
 ### 🏷️ &nbsp;Tentang Saya
 
-- 🏅&nbsp;Telah menyelesaikan 185+ Website
-- 👑&nbsp;Bekerjasama dengan 5 Perusahaan
-- ✨&nbsp;Mempunyai 11+ Sertifikat 
+- 🏅&nbsp;Telah menyelesaikan 200+ Website
+- 👑&nbsp;Bekerjasama dengan 6 Perusahaan
+- ✨&nbsp;Mempunyai 14+ Sertifikat 
 - 🧑‍💻&nbsp;Pengalaman lebih dari 5+ Tahun
 <br>
 
