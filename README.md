@@ -1,6 +1,6 @@
-<br clear="both">
-
-<img align="left" height="80" src="https://avatars.githubusercontent.com/u/46734111?v=4&size=150"  />
+<div align="right">
+  <img height="80" src="https://avatars.githubusercontent.com/u/46734111?v=4&size=150"  />
+</div>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<p align="left">- Email: [email-anda@example.com]  <br>- LinkedIn: [linkedin.com/in/profil-anda]  <br>- Portofolio: [portofolio-anda.com]</p>
+<p align="left">- Email: [anteikudevs@gmail.com]  <br>- LinkedIn: [linkedin.com/in/teguhdevs]</p>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/teguhdevs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -106,14 +106,14 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/AnteikuDevs/AnteikuDevs/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/l1s588f45jr9mukdqu4ulog4x">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=l1s588f45jr9mukdqu4ulog4x&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AnteikuDevs/AnteikuDevs/output/snake.svg" alt="Snake animation" />
 
 ###
