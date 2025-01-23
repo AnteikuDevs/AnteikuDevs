@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- Bahasa Pemrograman: PHP, JavaScript, Python  <br>- Framework dan Tools: Laravel, Node.js, React  <br>- Basis Data: MySQL, PostgreSQL  <br>- Keahlian Lainnya: Konsultasi IT, manajemen server, dan pemecahan masalah</p>
+<p align="left">- Bahasa Pemrograman: HTML, PHP, JavaScript  <br>- Framework dan Tools: Laravel, Node.js, React  <br>- Basis Data: MySQL, PostgreSQL  <br>- Keahlian Lainnya: Konsultasi IT, manajemen server, dan pemecahan masalah</p>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">Saya selalu terbuka untuk mempelajari hal-hal baru, khususnya dalam pengembangan full-stack dan komputasi awan.</p>
+<p align="left">Saya selalu terbuka untuk mempelajari hal-hal baru, khususnya dalam pengembangan website</p>
 
 ###
 
