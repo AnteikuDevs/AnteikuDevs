@@ -72,7 +72,7 @@
 
 ###
 
-<p align="left">- Email: [anteikudevs@gmail.com]  <br>- LinkedIn: [linkedin.com/in/teguhdevs]</p>
+<p align="left">- Email: <a href="mailto:anteikudevs@gmail.com" target="_blank">[anteikudevs@gmail.com]</a>  <br>- LinkedIn: <a href="https://linkedin.com/in/teguhdevs" target="_blank">[teguhdevs]</a></p>
 
 ###
 
