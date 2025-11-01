@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- Bahasa Pemrograman: HTML, PHP, JavaScript  <br>- Framework dan Tools: Laravel, Node.js, React  <br>- Basis Data: MySQL, PostgreSQL  <br>- Keahlian Lainnya: Konsultasi IT, manajemen server, dan pemecahan masalah</p>
+<p align="left">- Bahasa Pemrograman: HTML, PHP, JavaScript  <br>- Framework dan Tools: Laravel, Codeigniter, Node.js, React  <br>- Basis Data: MySQL, PostgreSQL  <br>- Keahlian Lainnya: Konsultasi IT, manajemen server, dan pemecahan masalah</p>
 
 ###
 
