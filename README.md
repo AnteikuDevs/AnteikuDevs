@@ -111,12 +111,3 @@
 
 <!-- <img src="https://raw.githubusercontent.com/AnteikuDevs/AnteikuDevs/output/snake.svg" alt="Snake animation" /> -->
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/l1s588f45jr9mukdqu4ulog4x">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=l1s588f45jr9mukdqu4ulog4x&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
