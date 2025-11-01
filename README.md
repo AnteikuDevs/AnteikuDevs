@@ -109,7 +109,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AnteikuDevs/AnteikuDevs/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/AnteikuDevs/AnteikuDevs/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
