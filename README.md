@@ -1,113 +1,57 @@
-<div align="right">
-  <img height="80" src="https://avatars.githubusercontent.com/u/46734111?v=4&size=150"  />
+<div align="center">
+  <img height="120" src="https://avatars.githubusercontent.com/u/46734111?v=4&size=150" style="border-radius: 50%; border: 3px solid #61dafb;" />
+  
+  <h1><img src="https://img.shields.io/badge/Halo!%20Saya%20Teguh%20Sugiarto-20232a?style=for-the-badge&logo=github&logoColor=61dafb" alt="Header" /></h1>
+  <p><b>Fullstack Developer | IT Staff at ITB Widya Gama Lumajang</b></p>
 </div>
 
-###
+### 🪐 Professional IT Enthusiast
+<p align="left">
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-61dafb?style=for-the-badge&logo=expert&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-a855f7?style=for-the-badge&logo=react&labelColor=20232a" />
+</p>
 
-<h1 align="left">Halo! 👋 Saya Teguh Sugiarto</h1>
+Halo! 👋 Saya **Teguh Sugiarto**. Seorang profesional IT yang berfokus pada pembangunan solusi digital yang berdampak. Saat ini saya bekerja sebagai Staff IT di **ITB Widya Gama Lumajang**.
 
-###
+---
 
-<p align="left">Saya seorang profesional IT dengan pengalaman lebih dari 4 tahun di bidang teknologi informasi. Keahlian saya mencakup pengembangan web, administrasi sistem, dan solusi IT. Saya senang membangun solusi yang memberikan dampak nyata dan membantu menyelesaikan berbagai tantangan di dunia nyata.</p>
-
-###
-
-<h3 align="left">🚀 Keahlian dan Kompetensi</h3>
-
-###
-
-<p align="left">- Bahasa Pemrograman: HTML, PHP, JavaScript  <br>- Framework dan Tools: Laravel, Codeigniter, Node.js, React  <br>- Basis Data: MySQL, PostgreSQL  <br>- Keahlian Lainnya: Konsultasi IT, manajemen server, dan pemecahan masalah</p>
-
-###
-
+### 🚀 Tech Stack & Arsenals
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,nextjs,tailwind,mysql,postgres,nodejs,ts,bootstrap" />
 </div>
 
-###
+---
 
-<h3 align="left">💼 Pekerjaan dan Proyek</h3>
+### 📌 Git Commit Convention
+> *Maintainability starts with a clear history.*
 
-###
+| Type | Description | Example |
+| :--- | :--- | :--- |
+| `🚀 feat` | Fitur baru untuk user | `feat: add login glassmorphism` |
+| `🐛 fix` | Perbaikan bug | `fix: resolve responsive issues` |
+| `📝 docs` | Dokumentasi | `docs: update deployment guide` |
+| `🎨 style` | Format code & UI (CSS/Style) | `style: update primary colors` |
+| `⚡ perf` | Optimasi performa | `perf: lazy load images` |
 
-<p align="left">Saat ini, saya bekerja sebagai Staff IT di Institut Teknologi dan Bisnis Widya Gama Lumajang. Sebelumnya, saya juga telah berkontribusi dalam berbagai proyek IT selama bekerja di Mascitra Teknologi Informasi.</p>
+---
 
-###
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnteikuDevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnteikuDevs&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
-<h3 align="left">🌱 Pengembangan Diri</h3>
+---
 
-###
-
-<p align="left">Saya selalu terbuka untuk mempelajari hal-hal baru, khususnya dalam pengembangan website</p>
-
-###
-
-<h3 align="left">📫 Hubungi Saya</h3>
-
-###
-
-<p align="left">- Email: <a href="mailto:anteikudevs@gmail.com" target="_blank">[anteikudevs@gmail.com]</a>  <br>- LinkedIn: <a href="https://linkedin.com/in/teguhdevs" target="_blank">[teguhdevs]</a></p>
-
-###
-
-<p align="left">Terima kasih telah mampir! Mari kita ciptakan sesuatu yang luar biasa bersama. 😊</p>
-
-###
-
+### 📫 Connect with Me
 <div align="left">
-  <a href="https://www.linkedin.com/in/teguhdevs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/anteikudevs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/anteikudevs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/anteikudevs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch logo"  />
-  </a>
-  <a href="https://t.me/anteikudevs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.facebook.com/anteikudevs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://medium.com/@anteikudevs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/teguhdevs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
+  <a href="mailto:anteikudevs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/teguhdevs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/anteikudevs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-###
+<br />
 
-<!-- <img src="https://raw.githubusercontent.com/AnteikuDevs/AnteikuDevs/output/snake.svg" alt="Snake animation" /> -->
-
+<p align="center">
+  <i>"Transforming ideas into digital reality, one commit at a time."</i>
+</p>
